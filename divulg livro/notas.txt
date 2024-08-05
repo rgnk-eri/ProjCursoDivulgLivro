@@ -1,0 +1,28 @@
+div1- informações sobre o livro -padding 50px todos lados
+    Um título -font-size 32px;
+    Uma imagem (capa do livro) -width 190px;
+    Um subtítulo -font-size 24px;
+    Um parágrafo -font-size 16px width 930 margin: 15 auto 30 auto;
+    Um link externo, para a página de venda do livro -background: green font-size 14px border: 25px solid padding: 10px 30px;
+div2- sinopse do livro paddind: 50px
+    Um subtítulo -font-size: 18px;
+    Um parágrafo com um <span> -font-size: 16px width: 930px margin: 15 auto 30 auto.
+div3- informações do autor padding de 50px
+    Um subtítulo font-size: 18px;
+    Uma imagem width: 190px;
+    Um parágrafo font-size: 16px width: 930px margin: 15 auto 30 auto;
+div4- marketing do livro padding 50px
+    Dois parágrafos font-size: 16px margin: 15 auto 30 auto;
+    Cada um com um <span>;
+    Um link externo, para a página de venda do livro. font-size: 14px border: 25px solid green padding: 10px 30px
+
+TODAS: borda superior(1px solid #D5D5D5). Fonte Tahoma. text-align center
+LINK: target blank
+SPAN: Negrito
+CORES: #000000 (preto) #F5F5F5 (branco) #D5D5D5 (cinza) #49B970 (verde)
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Tahoma', sans-serif;
+}
